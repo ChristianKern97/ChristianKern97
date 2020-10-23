@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I develop all kinds of software, including websites, bots, applications and everything else.
+I develop all kinds of software including websites, bots, applications and everything else.
 
 
 🔭 I’m currently working on [ForkGG](https://github.com/ForkGG/fork) and other OpenSource projects  
