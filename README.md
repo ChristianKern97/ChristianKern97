@@ -8,5 +8,5 @@ I develop all kinds of software including websites, bots, applications and every
 😄 Pronouns: he/him  
 ⚡ Fun fact: The moon has moonquakes  
 
-#### Some Stats
-<img scr="https://github.com/ChristianKern97/github-stats/blob/master/generated/overview.svg" alt="github stats"/>
+#### Some stats
+<img src="https://github.com/ChristianKern97/github-stats/blob/master/generated/overview.svg"/>
